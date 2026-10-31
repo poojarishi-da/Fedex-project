@@ -9,4 +9,4 @@ Analysis of supply chain shipment delivery history (10,324 records).
 
 ## Goals
 - Compare shipment modes and freight costs
-- Find delivery delays by country and vendor
+- Find delivery delays by country and vendorgit add .
